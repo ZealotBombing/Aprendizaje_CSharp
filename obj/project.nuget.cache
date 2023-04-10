@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Nkp/d7iG8AOlp0B2CftE5d7brBN5UekEGhxteNL/B55lEseUjetl3MXqgv3jiZQcvj4ymMJ1O2XFN6o0T6v+/w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cfuen\\source\\repos\\RepositorioCentral\\RepositorioCentral.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cfuen\\.nuget\\packages\\documentformat.openxml\\2.19.0\\documentformat.openxml.2.19.0.nupkg.sha512",
+    "C:\\Users\\cfuen\\.nuget\\packages\\system.io.packaging\\4.7.0\\system.io.packaging.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
